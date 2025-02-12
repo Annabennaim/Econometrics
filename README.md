@@ -1,6 +1,6 @@
-# Investigating Causal Relationships between Unemployment Rate and CPI using RStudio
+# Investigating Causal Relationships between Unemployment Rate and CPI 
 
-### Master's project 
+### Master's project using RStudio
 
 In this project, we examine two key indicators: the unemployment rate and the consumer price index, from 2004 to the present, highlighting their interactions and interdependencies. Our analysis is based on the Phillips curve hypothesis, which posits an inverse relationship between unemployment and inflation in the short term. According to this theory, a decline in unemployment leads to higher wages and, consequently, an increase in inflation. However, the influence of structural and cyclical factors—such as economic recessions, the European Central Bank's monetary policies, and changes in labor market dynamics—has made this relationship more complex over time.
 
